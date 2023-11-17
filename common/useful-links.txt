@@ -1,0 +1,1 @@
+HSL Color Picker: https://www.w3schools.com/colors/colors_hsl.asp;
