@@ -1,0 +1,18 @@
+:root {
+	/* Gradient */
+	--color-bg-light-slate-blue: hsl(224, 30%, 27%);
+	--color-bg-light-royal-blue: hsl(241, 81%, 54%);
+	--color-bg-violet-blue-circle: hsla(256, 72%, 46%, 1);
+	--color-bg-persian-blue-circle: hsla(241, 72%, 46%, 0);
+
+	/* Neutral */
+	--color-p-white: hsl(0, 0%, 100%);
+	--color-p-pale-blue: hsl(221, 100%, 96%);
+	--color-p-light-lavender: hsl(241, 100%, 89%);
+	--color-p-dark-gray-blue: hsl(224, 30%, 27%);
+
+	--font-family: 'Hanken Grotesk', sans-serif;
+
+	--mobile-threshold: 375px;
+	--desktop-threshold: 1440px;
+}

@@ -1,0 +1,12 @@
+/* My Style here! */
+main {
+	height: 100vh;
+	background-color: var(--color-light-gray);
+	font-family: var(--font-family);
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	padding: 2rem;
+}
